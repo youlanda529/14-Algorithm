@@ -37,4 +37,6 @@ int main()
 	max_mL = (full_empty >= empty) ? full_empty : empty;//max_mL为最终最大的奶茶量 
 	
 	printf("%d", max_mL);
+	
+	return 0; 
 }
